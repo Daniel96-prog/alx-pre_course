@@ -1,1 +1,1 @@
-**Fisrt**_git project_
+**Awesome **_git project_
